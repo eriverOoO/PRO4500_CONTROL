@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
+*.so
+*.dylib
+build/
+dist/
+*.user
