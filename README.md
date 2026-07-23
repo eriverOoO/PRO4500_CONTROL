@@ -27,9 +27,9 @@ parent 저장소에 남겨 둡니다.
 ## 사용하는 parent 저장소
 
 - Android 휴대폰 카메라 기반 작업 공간:
-  [eriverOoO/PRO4500_Android_CONTROL](https://github.com/eriverOoO/PRO4500_Android_CONTROL)
+  [lee-lab-skku/PRO4500_Android_CONTROL](https://github.com/lee-lab-skku/PRO4500_Android_CONTROL)
 - XIMEA UV 카메라 기반 작업 공간:
-  [eriverOoO/PRO4500_Control_System-UV](https://github.com/eriverOoO/PRO4500_Control_System-UV)
+  [lee-lab-skku/PRO4500_CONTROL_ximea](https://github.com/lee-lab-skku/PRO4500_CONTROL_ximea)
 
 ## Submodule 사용 방법
 
